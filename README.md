@@ -6,12 +6,12 @@ Work tested on Linux and BSD systems and exclude specefic platform tools (tail -
 
 ### How to use
 Export wireshark objects and run shell script from export dir. 
+
 ![Export objects](https://i.imgur.com/gXULdCc.png)
 
 ```sh
 cd objects_export
-git clone https://github.com/n0a/usefull-shell-scripts/blob/main/wsconv.sh
-chmod +x wsconv.sh
+wget https://raw.githubusercontent.com/n0a/usefull-shell-scripts/main/wsconv.sh && chmod +x wsconv.sh
 ./wsconv.sh
 ```
 Check *found_files* dir for POST wireshark objects. Enjoy!
