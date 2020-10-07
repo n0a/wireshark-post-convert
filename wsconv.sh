@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script is designed to search from the exported wireshark objects by MIME-type and convert it to a format convenient for viewing.
+# This script is designed to search from the exported wireshark objects and convert it to a format convenient for viewing.
 # Work tested on Linux and BSD systems and exclude specefic platform tools (tail -r on BSD, tac on Linux etc)
 # tags: wireshark, export objects, post, mime types, wireshark export images, wireshark post upload.
 # by n0a
