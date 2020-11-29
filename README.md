@@ -1,4 +1,4 @@
-# Usefull-shell-scripts
+# Wireshark post object export tool
 
 ## wsconv.sh
 This script is designed to search from the exported wireshark POST objects and convert it to a format convenient for viewing.
