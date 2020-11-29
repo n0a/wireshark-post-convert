@@ -12,7 +12,7 @@ Export wireshark objects and run shell script from export dir.
 #### Download
 ```sh
 cd objects_export
-wget https://raw.githubusercontent.com/n0a/wireshark-post-export/main/wsconv.sh && chmod +x wsconv.sh
+wget https://raw.githubusercontent.com/n0a/wireshark-post-convert/main/wsconv.sh && chmod +x wsconv.sh
 ./wsconv.sh
 ```
 Check *found_files* dir for POST wireshark objects. Enjoy!
